@@ -9,7 +9,7 @@
       <div class="flex my-auto">
         <RouterLink to="/">
           <div class="flex flex-col">
-            <img class="" src="src/assets/images/TrimLogo.png" alt="Alpine Building Solutions Logo" />
+            <img class="" src="/src/assets/images/TrimLogo.png" alt="Alpine Building Solutions Logo" />
             <p class="text-right font-light text-sm">Holiday Maintenance</p>
           </div>
         </RouterLink>
